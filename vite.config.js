@@ -4,7 +4,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://github.com/fsociety781/WebDashboardRaihanVue.io",
+  base: "https://fsociety781.github.io/WebDashboardRaihanVue/",
   plugins: [vue()],
   resolve: {
     alias: {
